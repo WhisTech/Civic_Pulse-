@@ -1,14 +1,5 @@
 # 🏛️ CivicPulse  
-### Bridging the gap between active citizens and accountable tech-driven governance.
 
-![Stars](https://img.shields.io/github/stars/WhisTech/Civic_Pulse?style=for-the-badge&logo=github)
-
-![Forks](https://img.shields.io/github/forks/WhisTech/Civic_Pulse?style=for-the-badge&logo=github)
-
-![Issues](https://img.shields.io/github/issues-raw/WhisTech/Civic_Pulse?style=for-the-badge&logo=github)
-
-![License](https://img.shields.io/github/license/WhisTech/Civic_Pulse?style=for-the-badge) 
----
 
 # 📌 Description
 
