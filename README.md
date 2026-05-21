@@ -178,25 +178,19 @@ Built-in support for:
 
 ## 🏠 Home Dashboard
 
-```md
-Add screenshot here
-```
+![Home Dashboard](assets/Dashboard.png)
 
 ---
 
 ## 📊 Budget Dashboard
 
-```md
-Add screenshot here
-```
+![Budget Dashboard](assets/Fund Dashboard.png)
 
 ---
 
 ## 🗺️ Civic Issue Reporting
 
-```md
-Add screenshot here
-```
+![Civic Reporting](assets/Reporting.png)
 
 ---
 
