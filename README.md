@@ -184,7 +184,7 @@ Built-in support for:
 
 ## 📊 Budget Dashboard
 
-![Budget Dashboard](assets/Fund Dashboard.png)
+![Budget Dashboard](assets/Fund_Dashboard.png)
 
 ---
 
