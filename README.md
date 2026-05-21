@@ -19,9 +19,9 @@ Built with a clean glassmorphism-inspired interface, CivicPulse combines public 
 # 🚀 Live Demo
 
 ### Frontend:
-```bash
-https://your-live-demo-link.com
-```
+
+https://whistech.github.io/Civic_Pulse/
+
 
 🧪 Explore issue reporting, public dashboards, multilingual support, and authority management systems directly in the browser.
 
