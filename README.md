@@ -1,5 +1,8 @@
 # 🏛️ CivicPulse  
 
+<p align="center">
+  <img src="assets/banner.png" alt="CivicPulse Banner" width="100%">
+</p>
 
 # 📌 Description
 
